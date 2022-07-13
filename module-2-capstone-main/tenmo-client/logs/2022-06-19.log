@@ -1,0 +1,9 @@
+2022-06-19T18:54:17.7067801 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-06-19T18:58:34.6385007 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-06-19T18:58:40.6465436 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-06-19T18:59:32.4848292 400 : [{"timestamp":"2022-06-19T22:59:32.464+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-06-19T18:59:47.1723472 400 : [{"timestamp":"2022-06-19T22:59:47.160+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-06-19T19:02:28.6638931 401 : [no body]
+2022-06-19T19:35:07.2220473 401 : [no body]
+2022-06-19T19:35:48.2828313 401 : [no body]
+2022-06-19T19:45:00.5287549 401 : [no body]
